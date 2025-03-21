@@ -1,13 +1,3 @@
-Let’s create a comprehensive GitHub README for your smoking cessation project, including all the Python and RStudio code we’ve developed, with detailed steps tailored for someone new to Python and fairly new to RStudio. I’ll also suggest a repository name that reflects the project’s focus on veteran smoking cessation data and geographic visualization.
-
----
-
-### Suggested Repository Name
-**`Veteran-Smoking-Cessation-Visualizer`**  
-- **Why**: It captures the veteran focus, smoking cessation theme, and visualization aspect, making it clear and appealing for your portfolio. It’s broad enough to expand later (e.g., more health metrics) and ties into your Southern Illinois context.
-
----
-
 ### New README for `Veteran-Smoking-Cessation-Visualizer`
 
 ```markdown
@@ -252,3 +242,9 @@ Questions? Connect with me on LinkedIn or open an issue here!
 - **Professional**: Showcases your skills for a portfolio.
 
 Let me know if you’d like a different repo name or tweaks to the README! Ready to push this live? 🚀
+
+<img width="959" alt="Screenshot 2025-03-20 211252" src="https://github.com/user-attachments/assets/95194124-5352-44d4-af64-97a1ad6c7467" />
+<img width="957" alt="Screenshot 2025-03-20 211214" src="https://github.com/user-attachments/assets/e42b74ce-7456-4e02-b9f3-53aab9f1abde" />
+
+
+
